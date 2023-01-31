@@ -5,10 +5,8 @@
 
 #define SS_PIN  5  // ESP32 pin GIOP5 
 #define RST_PIN 27 // ESP32 pin GIOP27
-// const char* ssid = "Howest.guests";
-// const char* password = "welkombijhowest";
-const char* ssid = "himpes boven 2.4";
-const char* password = "Vandenabeele11";
+const char* ssid = "Howest.guests";
+const char* password = "welkombijhowest";
 
 const char *mqtt_broker = "test.mosquitto.org";
 const char *topic = "PI_PLAYERRFID";

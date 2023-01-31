@@ -5,10 +5,8 @@
 
 Adafruit_7segment matrix = Adafruit_7segment();
 
-// const char* ssid = "Howest.guests";
-// const char* password = "welkombijhowest";
-const char* ssid = "himpes boven 2.4";
-const char* password = "Vandenabeele11";
+const char* ssid = "Howest.guests";
+const char* password = "welkombijhowest";
 
 // MQTT Broker
 const char *mqtt_broker = "test.mosquitto.org";
